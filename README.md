@@ -4,7 +4,7 @@
 
 Hello there 👋
 
-I am a software engineer dedicated to bringing value to communities around me. Currently, I am focusing on web development and software engineering. I have a passion for teaching and creating content to share my knowledge with anyone willing to learn. Check out my projects below, and feel free to connect with me through my socials listed above. Looking forward to connecting with you! ❤️
+I am a software engineer dedicated to bringing value to communities around me. Currently, I am focusing on web development and software engineering. Check out my projects below, and feel free to connect with me through my socials listed above. Looking forward to connecting with you! ❤️
 
 ---
 
