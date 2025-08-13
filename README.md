@@ -1,17 +1,10 @@
-# pejuangvscode's GitHub Stats
+Hello there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pejuangvscode&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejuangvscode&layout=compact&theme=radical)
+I am a software engineer dedicated to bringing value to communities around me. Currently, I am focusing on web development and software engineering. I have a passion for teaching and creating content to share my knowledge with anyone willing to learn. Check out my projects below, and feel free to connect with me through my socials listed above. Looking forward to connecting with you! ❤️
 
 ---
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/teoinsani)
-
----
-
-Hello there 👋
-
-I am a software engineer dedicated to bringing value to communities around me. Currently, I am focusing on web development and software engineering. I have a passion for teaching and creating content to share my knowledge with anyone willing to learn. Check out my projects below, and feel free to connect with me through my socials listed above. Looking forward to connecting with you! ❤️
 
 ---
 
